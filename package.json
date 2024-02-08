@@ -1,0 +1,30 @@
+{
+  "name": "radius-amp",
+  "version": "1.0.0",
+  "description": "A Simple plugin to provide AMP support in RT Themes.",
+  "main": "index.js",
+  "directories": {
+      "lib": "src"
+    },
+  "scripts": {
+    "dev": "mix",
+    "prod": "mix -p",
+    "watch": "mix watch",
+    "package": "mix -p && cross-env NODE_ENV=package mix",
+    "zip": "npm run package && cross-env NODE_ENV=zip mix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "archiver": "^5.2.0",
+    "cli-color": "^2.0.0",
+    "cross-env": "^7.0.3",
+    "emojic": "^1.1.16",
+    "fs-extra": "^9.0.1",
+    "laravel-mix": "^6.0.8",
+    "sass": "^1.32.2",
+    "sass-loader": "^8.0.2",
+    "wp-pot": "^1.9.8"
+  }
+}

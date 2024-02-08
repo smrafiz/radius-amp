@@ -1,0 +1,16 @@
+{
+	"name": "rt/rt-amp",
+	"description": "Radius AMP plugin",
+	"authors": [
+		{
+			"name": "Radius Theme",
+			"email": "admin@radiustheme.com"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"RT\\Amp\\": "app/"
+		}
+	}
+}

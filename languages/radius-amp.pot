@@ -1,0 +1,226 @@
+# Copyright (C) 2022 radius-amp
+# This file is distributed under the same license as the radius-amp package.
+msgid ""
+msgstr ""
+"Project-Id-Version: radius-amp\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Econdig: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: radius-amp\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../app/Controllers/Customizer/Init.php:70
+msgid "AMP Header"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:34
+msgid "AMP Footer Settings"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:44
+msgid "Upload AMP Footer logo?"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:45
+msgid "Please upload AMP Footer logo. Logo will be disabled if the field is kept empty."
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:49, ../app/Controllers/Customizer/Settings.php:54
+msgid "Select File"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:50
+msgid "Change File"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:51
+msgid "Default"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:52
+msgid "Remove"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:53
+msgid "No file selected"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:55
+msgid "Choose File"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:63, ../templates/footer.php:32
+msgid "The Most Powerful News, Blog & Magazine WordPress Theme"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:67
+msgid "AMP Footer top text."
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:68
+msgid "Please enter AMP Footer top text."
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:80
+msgid "Enable AMP Footer social media?"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:81
+msgid "Enable/disable AMP Footer social media icons. Note: to show social media icons, you have to enter social URL from General Settings."
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:92
+msgid "AMP Social Media color"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:93
+msgid "Please choose the social media color."
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:104
+msgid "AMP Primary Color"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:105
+msgid "Please choose the primary color."
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:116
+msgid "AMP Body Text Color"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:117
+msgid "Please choose the body text color."
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:128
+msgid "Color Scheme."
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:129
+msgid "Please select the color scheme."
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:133
+msgid "Light"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:134
+msgid "Dark"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:145
+msgid "AMP Header On/Off"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:146
+msgid "Enable/disable AMP header."
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:157
+msgid "AMP Sticky Header"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:158
+msgid "Enable/disable AMP sticky header."
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:169
+msgid "AMP Header Search"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:170
+msgid "Enable/disable AMP header search."
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:180
+msgid "AMP Ad Settings"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:191
+msgid "AMP Ad Before Header"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:192
+msgid "Enable/disable AMP ad before header."
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:203
+msgid "AMP Ad After Header"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:204
+msgid "Enable/disable AMP ad after header."
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:215
+msgid "AMP Ad Before Post Content"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:216
+msgid "Enable/disable AMP ad before post content."
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:227
+msgid "AMP Ad After Post Content"
+msgstr ""
+
+#: ../app/Controllers/Customizer/Settings.php:228
+msgid "Enable/disable AMP ad after post content."
+msgstr ""
+
+#: ../radius-amp.php:49
+msgid "Radius AMP plugin requires <b>Neeon Theme</b>. Please install and activate <b>Neeon Theme</b> to use Radius AMP features."
+msgstr ""
+
+#: ../radius-amp.php:63
+msgid "Radius AMP plugin requires <b>AMP plugin</b>. Please install and activate <b>AMP plugin</b> to use Radius AMP features."
+msgstr ""
+
+#: ../templates/article.php:20
+msgid "Comment"
+msgstr ""
+
+#: ../templates/article.php:20
+msgid "Comments"
+msgstr ""
+
+#: ../templates/article.php:48
+msgid "By "
+msgstr ""
+
+#: ../templates/article.php:135
+msgid "Pages:"
+msgstr ""
+
+#: ../templates/article.php:176
+msgid "Tags:"
+msgstr ""
+
+#: ../templates/article.php:187
+msgid "Share This Post:"
+msgstr ""
+
+#: ../templates/footer.php:41
+msgid "Follow Us On:"
+msgstr ""
+
+#: ../templates/html-start.php:36
+msgid "Skip to content"
+msgstr ""
+
+#: ../templates/navigation.php:28
+msgid "Search"
+msgstr ""
+
+#: ../templates/search.php:14
+msgid "Type your search........"
+msgstr ""
